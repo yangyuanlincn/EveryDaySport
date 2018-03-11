@@ -31,12 +31,5 @@ EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天
 * [任务领取/结对监督模式概念示例](https://github.com/hoosin/EveryDaySport/issues/2) 初步方案，欢迎加入探讨。
 
 
-### 六、目录
-
-```
-.
-├── table                 … 锻炼签到表 （记得每天运动完，在这里签到哦！）
-├── guide                 … 健身指南   （欢迎大家 pull request ，分享更多健身经验。）
-└── readme.md             … 说明文档
-```
+### 六、目录https://github.com/
 
